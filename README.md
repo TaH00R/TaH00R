@@ -1,14 +1,7 @@
 <h1 align="center">Hey there 👋, I'm <span style="color:#00bfff;">TaHooR</span></h1>
 <h3 align="center">
   💻 Just a Student Who Enjoys Making Stuff Work ⚙️
-  <span style="display:inline-flex; align-items:center;">
-    <img
-      alt="Yoru (Chainsaw Man)"
-      src="https://media.tenor.com/JZJgJaYSxp8AAAAM/asa-mitaka.gif"
-      width="60"
-      style="vertical-align:middle; margin-left:8px; border-radius:6px;"
-    />
-  </span>
+  
 </h3>
 
 
@@ -19,7 +12,14 @@
 </p>
 
 ---
-
+<span style="display:inline-flex; align-items:center;">
+    <img
+      alt="Yoru (Chainsaw Man)"
+      src="https://media.tenor.com/JZJgJaYSxp8AAAAM/asa-mitaka.gif"
+      width="60"
+      style="vertical-align:middle; margin-left:8px; border-radius:6px;"
+    />
+  </span>
 - 🌱 I’m currently learning **Flutter & System Design**  
 - 🎯 Goal: **Build sleek, functional, and efficient projects**  
 - 💬 Ask me about **C++, Flutter, or Python**  
