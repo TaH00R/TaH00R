@@ -15,6 +15,14 @@
 - 📫 Reach me at: **mohammad.tahoor25b@iiitg.ac.in**  
 - ⚡ Fun fact: *I fix bugs faster when music is playing 🎧*
 
+<p align="right">
+  <img
+    alt="Yoru (Chainsaw Man)"
+    width="350"
+    src="https://media.tenor.com/JZJgJaYSxp8AAAAM/asa-mitaka.gif"
+  />
+</p>
+
 ---
 
 <h3 align="center">💬 Random Dev Quote</h3>
