@@ -40,17 +40,15 @@
 ---
 
 ### 🌐 Connect with me
-<div align="left">
-  <a href="https://instagram.com/tahoor.69" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram"/>
+<p align="left">
+  <a href="https://instagram.com/tahoor.69/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tahoor.69" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/u/tahoor_69/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&color=FFA116&logoColor=black&style=for-the-badge" height="35" alt="LeetCode"/>
+  <a href="https://leetcode.com/u/tahoor_69/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tahoor_69" height="30" width="40" />
   </a>
-  <a href="mailto:mohammad.tahoor25b@iiitg.ac.in" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail"/>
-  </a>
-</div>
+</p>
+
 
 ---
 
