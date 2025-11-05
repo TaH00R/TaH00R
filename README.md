@@ -19,12 +19,15 @@
 - 📫 Reach me at: **mohammad.tahoor25b@iiitg.ac.in**  
 - ⚡ Fun fact: *I fix bugs faster when music is playing 🎧*
   <span style="display:inline-flex; align-items:center;">
-    <img
-      alt="Yoru (Chainsaw Man)"
-      src="https://media.tenor.com/JZJgJaYSxp8AAAAM/asa-mitaka.gif"
-      width="50"
-      style="vertical-align:middle; margin-left:8px; border-radius:6px;"
-    />
+    <div style="position:relative; height:0;">
+  <img
+    alt="Yoru (Chainsaw Man)"
+    src="https://media.tenor.com/JZJgJaYSxp8AAAAM/asa-mitaka.gif"
+    width="120"
+    style="position:absolute; top:0; right:0; border-radius:8px;"
+  />
+</div>
+
   </span>
 
 
