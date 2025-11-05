@@ -41,6 +41,9 @@
 
 ### 🌐 Connect with me
 <p align="left">
+    <a href="mailto:mohammad.tahoor25b@iiitg.ac.in" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="40" />
+  </a>
   <a href="https://instagram.com/tahoor.69/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tahoor.69" height="30" width="40" />
   </a>
