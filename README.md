@@ -12,7 +12,6 @@
 </p>
 
 ---
-<img align="right" alt="Cool GIF" width="250" src="https://tenor.com/view/chainsaw-man-pochita-denji-pochita-gif-27134606">
 
 <div style="display: flex; align-items: center; justify-content: space-between; margin-top: 20px;">
   <div>
