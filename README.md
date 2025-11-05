@@ -13,22 +13,24 @@
 
 ---
 
-- 🌱 I’m currently learning **Flutter & System Design**  
-- 🎯 Goal: **Build sleek, functional, and efficient projects**  
-- 💬 Ask me about **C++, Flutter, or Python**  
-- 📫 Reach me at: **mohammad.tahoor25b@iiitg.ac.in**  
-- ⚡ Fun fact: *I fix bugs faster when music is playing 🎧*
-  <span style="display:inline-flex; align-items:center;">
-    <div style="position:relative; height:0;">
+<div style="display: flex; align-items: center; justify-content: space-between; margin-top: 20px;">
+  <div>
+    <ul>
+      <li>🌱 I’m currently learning <b>Flutter & System Design</b></li>
+      <li>🎯 Goal: <b>Build sleek, functional, and efficient projects</b></li>
+      <li>💬 Ask me about <b>C++, Flutter, or Python</b></li>
+      <li>📫 Reach me at: <b>mohammad.tahoor25b@iiitg.ac.in</b></li>
+      <li>⚡ Fun fact: <i>I fix bugs faster when music is playing 🎧</i></li>
+    </ul>
+  </div>
   <img
     alt="Yoru (Chainsaw Man)"
     src="https://media.tenor.com/JZJgJaYSxp8AAAAM/asa-mitaka.gif"
-    width="120"
-    style="position:absolute; top:0; right:0; border-radius:8px;"
+    width="130"
+    style="border-radius:10px; margin-left:20px;"
   />
 </div>
 
-  </span>
 
 
 ---
