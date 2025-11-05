@@ -18,14 +18,15 @@
 - 💬 Ask me about **C++, Flutter, or Python**  
 - 📫 Reach me at: **mohammad.tahoor25b@iiitg.ac.in**  
 - ⚡ Fun fact: *I fix bugs faster when music is playing 🎧*
-<span style="display:inline-flex; align-items:center;">
+  <span style="display:inline-flex; align-items:center;">
     <img
       alt="Yoru (Chainsaw Man)"
       src="https://media.tenor.com/JZJgJaYSxp8AAAAM/asa-mitaka.gif"
-      width="60"
+      width="50"
       style="vertical-align:middle; margin-left:8px; border-radius:6px;"
     />
   </span>
+
 
 ---
 
