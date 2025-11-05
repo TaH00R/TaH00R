@@ -19,7 +19,7 @@
 
 <img align="right" height="150" src="https://i.pinimg.com/originals/21/5d/4d/215d4dfb016c99e8f3e799ff3a0d2123.gif" />
 
-### 🧠 Tech Stack
+### 🧠 Languages and Tools
 <div align="left">
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="30"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="30"/>
