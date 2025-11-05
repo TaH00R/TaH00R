@@ -17,6 +17,13 @@
 
 ---
 
+<h3 align="center">💬 Random Dev Quote</h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Dynamic Quote" />
+</p>
+
+---
+
 <img align="right" height="150" src="https://i.pinimg.com/originals/21/5d/4d/215d4dfb016c99e8f3e799ff3a0d2123.gif" />
 
 ### 🧠 Languages and Tools
