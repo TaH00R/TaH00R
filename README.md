@@ -17,13 +17,13 @@
 
 ---
 
-<img
-  align="right"
-  alt="Yoru (War Devil)"
-  width="350"
-  src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5bf98764-20b0-444c-a3cc-ad6985aeba5c/di1q2mq-041ca000-de1a-4646-b7b3-3e45eb726a22.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi81YmY5ODc2NC0yMGIwLTQ0NGMtYTNjYy1hZDY5ODVhZWJhNWMvZGkxcTJtcS0wNDFjYTAwMC1kZTFhLTQ2NDYtYjdiMy0zZTQ1ZWI3MjZhMjIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.T7hTmA4MmS5N5UoR_7bt80CfQpkeMnJ3C5vSCucxB_8"
-  style="border-radius: 12px; margin: 10px 0 10px 20px; box-shadow: 0 0 15px #ff000033;"
-/>
+<p align="right">
+  <img
+    alt="Yoru (War Devil)"
+    width="350"
+    src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5bf98764-20b0-444c-a3cc-ad6985aeba5c/di1q2mq-041ca000-de1a-4646-b7b3-3e45eb726a22.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi81YmY5ODc2NC0yMGIwLTQ0NGMtYTNjYy1hZDY5ODVhZWJhNWMvZGkxcTJtcS0wNDFjYTAwMC1kZTFhLTQ2NDYtYjdiMy0zZTQ1ZWI3MjZhMjIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.T7hTmA4MmS5N5UoR_7bt80CfQpkeMnJ3C5vSCucxB_8"
+  />
+</p>
 
 
 <h3 align="center">💬 Random Dev Quote</h3>
