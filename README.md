@@ -58,5 +58,5 @@
 ---
 
 <p align="center">
-  <i>“Code. Debug. Create. Repeat.”</i>
+  <i>“When it Happens, Let it Happen.”</i>
 </p>
