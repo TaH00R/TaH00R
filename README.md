@@ -70,13 +70,6 @@
 
 ---
 
-### 🐍 Contribution Graph
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tah00r/tah00r/output/snake.svg" alt="Snake animation"/>
-</p>
-
----
-
-<p align="center">
-  <i>“When it Happens, Let it Happen”</i> ⚡
+  <i>“When it Happens, Let it Happen”</i> 
 </p>
