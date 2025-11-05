@@ -12,6 +12,12 @@
 </p>
 
 ---
+
+- 🌱 I’m currently learning **Flutter & System Design**  
+- 🎯 Goal: **Build sleek, functional, and efficient projects**  
+- 💬 Ask me about **C++, Flutter, or Python**  
+- 📫 Reach me at: **mohammad.tahoor25b@iiitg.ac.in**  
+- ⚡ Fun fact: *I fix bugs faster when music is playing 🎧*
 <span style="display:inline-flex; align-items:center;">
     <img
       alt="Yoru (Chainsaw Man)"
@@ -20,12 +26,6 @@
       style="vertical-align:middle; margin-left:8px; border-radius:6px;"
     />
   </span>
-- 🌱 I’m currently learning **Flutter & System Design**  
-- 🎯 Goal: **Build sleek, functional, and efficient projects**  
-- 💬 Ask me about **C++, Flutter, or Python**  
-- 📫 Reach me at: **mohammad.tahoor25b@iiitg.ac.in**  
-- ⚡ Fun fact: *I fix bugs faster when music is playing 🎧*
-
 
 ---
 
