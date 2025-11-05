@@ -12,7 +12,7 @@
 </p>
 
 ---
-<img align="right" alt="Cool GIF" width="300" src="https://i.pinimg.com/originals/72/0c/c4/720cc43d757ee638ad5054a05220fafe.gif">
+<img align="right" alt="Cool GIF" width="250" src="https://i.pinimg.com/originals/72/0c/c4/720cc43d757ee638ad5054a05220fafe.gif">
 
 <div style="display: flex; align-items: center; justify-content: space-between; margin-top: 20px;">
   <div>
