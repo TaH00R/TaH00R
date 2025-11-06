@@ -26,8 +26,6 @@
 </p>
 
 ---
-
-### 🧠 Languages & Tools
 ### 🧠 Languages & Tools
 <div align="center">
   <table>
