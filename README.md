@@ -11,7 +11,7 @@
 
 ---
 
-<img align="right" height="180" src="https://media1.tenor.com/m/X4irWZy5DiwAAAAd/chainsaw-man-pochita.gif"/>
+<img align="right" height="150" src="https://media1.tenor.com/m/X4irWZy5DiwAAAAd/chainsaw-man-pochita.gif"/>
 
 ### 🌱 About Me
 - I’m currently learning **Flutter & System Design**  
