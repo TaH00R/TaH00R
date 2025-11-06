@@ -101,7 +101,6 @@
     </tr>
   </table>
 </div>
-://skillicons.dev/icons?i=blender" width="45" height="45" alt="Blender" />
 </div>
 
 ---
