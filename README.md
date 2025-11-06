@@ -28,40 +28,93 @@
 ---
 
 ### 🧠 Languages & Tools
+### 🧠 Languages & Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" alt="C++" />
-  <img src="https://skillicons.dev/icons?i=c" width="45" height="45" alt="C" />
-  <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=dart" width="45" height="45" alt="Dart" />
-  <img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Flutter" />
-  <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML5" />
-  <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS3" />
-  <img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux" />
-  <img src="https://skillicons.dev/icons?i=arduino" width="45" height="45" alt="Arduino" />
-  <img src="https://skillicons.dev/icons?i=photoshop" width="45" height="45" alt="Photoshop" />
-  <img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="Figma" />
-  <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL" />
-  <img src="https://skillicons.dev/icons?i=blender" width="45" height="45" alt="Blender" />
+  <table>
+    <tr>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" alt="C++" />
+        <br>C++
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=c" width="45" height="45" alt="C" />
+        <br>C
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python" />
+        <br>Python
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=dart" width="45" height="45" alt="Dart" />
+        <br>Dart
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Flutter" />
+        <br>Flutter
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML5" />
+        <br>HTML
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS3" />
+        <br>CSS
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript" />
+        <br>JavaScript
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
+        <br>Git
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub" />
+        <br>GitHub
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux" />
+        <br>Linux
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=arduino" width="45" height="45" alt="Arduino" />
+        <br>Arduino
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=photoshop" width="45" height="45" alt="Photoshop" />
+        <br>Photoshop
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="Figma" />
+        <br>Figma
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL" />
+        <br>MySQL
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=blender" width="45" height="45" alt="Blender" />
+        <br>Blender
+      </td>
+    </tr>
+  </table>
+</div>
+://skillicons.dev/icons?i=blender" width="45" height="45" alt="Blender" />
 </div>
 
 ---
 
 ### 🌐 Connect with Me
-<p align="center">
-  <a href="mailto:mohammad.tahoor25b@iiitg.ac.in">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Gmail" />
-  </a>
-  <a href="https://instagram.com/tahoor.69/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" alt="Instagram" />
-  </a>
-  <a href="https://leetcode.com/u/tahoor_69/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" width="40" height="40" alt="LeetCode" />
-  </a>
-  <a href="https://github.com/tah00r" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" />
+<p align="left"> 
+  <a href="mailto:mohammad.tahoor25b@iiitg.ac.in" target="_blank">
+    <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" height="30" width="40" /> 
+  </a> 
+  <a href="https://instagram.com/tahoor.69/" target="_blank"> 
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tahoor.69" height="30" width="40" /> </a> 
+  <a href="https://leetcode.com/u/tahoor_69/" target="_blank"> 
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tahoor_69" height="30" width="40" />
   </a>
 </p>
 
