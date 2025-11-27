@@ -20,8 +20,6 @@
 - 📫 Reach me at: **mohammad.tahoor25b@iiitg.ac.in**  
 - ⚡ Fun fact: I fix bugs faster when music is playing 🎧
 
-  
-
 ---
 
 <h3 align="center">💬 Random Dev Quote</h3>
@@ -30,7 +28,8 @@
 </p>
 
 ---
-### 🧠 Languages & Tools
+
+### 🧠 Languages
 <div align="center">
   <table>
     <tr>
@@ -51,10 +50,6 @@
         <br>Dart
       </td>
       <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Flutter" />
-        <br>Flutter
-      </td>
-      <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML5" />
         <br>HTML
       </td>
@@ -67,7 +62,19 @@
         <br>JavaScript
       </td>
     </tr>
+  </table>
+</div>
+
+---
+
+### 🔧 Tools
+<div align="center">
+  <table>
     <tr>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Flutter" />
+        <br>Flutter
+      </td>
       <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
         <br>Git
@@ -103,21 +110,40 @@
     </tr>
   </table>
 </div>
-</div>
 
 ---
 
 ### 🌐 Connect with Me
 <p align="left"> 
+
   <a href="mailto:mohammad.tahoor25b@iiitg.ac.in" target="_blank">
-    <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" height="30" width="40" /> 
-  </a> 
-  <a href="https://instagram.com/tahoor.69/" target="_blank"> 
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tahoor.69" height="30" width="40" /> </a> 
-  <a href="https://leetcode.com/u/tahoor_69/" target="_blank"> 
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tahoor_69" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" width="40" alt="Gmail"/>
   </a>
+
+  <a href="https://instagram.com/tahoor.69/" target="_blank"> 
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram"/> 
+  </a> 
+
+  <a href="https://leetcode.com/u/tahoor_69/" target="_blank"> 
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" alt="LeetCode"/> 
+  </a>
+
+  <a href="https://www.linkedin.com/in/mohammad-tahoor-36652739a/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/>
+  </a>
+
+ <a href="https://x.com/TaHooR_69" target="_blank">
+  <img align="center" src="https://cdn.simpleicons.org/x/ffffff" height="30" width="40" alt="X"/>
+</a>
+
+<a href="https://discord.com/users/858304358826901514" target="_blank">
+  <img align="center" src="https://cdn.simpleicons.org/discord/5865F2" height="30" width="40" alt="Discord"/>
+</a>
+
+
+
 </p>
+
 
 ---
 
