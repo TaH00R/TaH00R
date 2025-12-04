@@ -14,11 +14,11 @@
 <img align="right" height="150" src="https://media1.tenor.com/m/X4irWZy5DiwAAAAd/chainsaw-man-pochita.gif"/>
 
 ### 🌱 About Me
-- I’m currently learning **Flutter & System Design**  
-- 🎯 Goal: Build sleek, functional, and efficient projects  
-- 💬 Ask me about **C++, Flutter, or Python**  
-- 📫 Reach me at: **mohammad.tahoor25b@iiitg.ac.in**  
-- ⚡ Fun fact: I fix bugs faster when music is playing 🎧
+- I’m currently learning **Flutter & AI/ML**  
+- Goal: Build sleek, functional, and efficient projects  
+- Ask me about **C++, Flutter, or Python**  
+- Reach me at: **mohammad.tahoor25b@iiitg.ac.in**  
+- Fun fact: I fix bugs faster when music is playing 🎧
 
 ---
 
