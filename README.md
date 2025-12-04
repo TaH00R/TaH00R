@@ -156,8 +156,10 @@
 
 ### 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tah00r&show_icons=true&theme=react&hide_border=false&include_all_commits=true" width="390" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tah00r&layout=compact&theme=react&hide_border=false" width="390" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=TaH00R&theme=dark&hide_border=false" width="430" />
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TaH00R&theme=dark" width="400"/>
+</a>
 </div>
 
 ---
