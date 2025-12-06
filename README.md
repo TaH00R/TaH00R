@@ -112,6 +112,40 @@
 </div>
 
 ---
+### 🐍 Python Libraries
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="assets/icons/Tkinter.svg" width="45" />
+        <br>Tkinter
+      </td>
+      <td align="center" width="100">
+        <img src="assets/icons/Turtle.svg" width="45" />
+        <br>Turtle
+      </td>
+      <td align="center" width="100">
+        <img src="assets/icons/NumPy.svg" width="45" />
+        <br>NumPy
+      </td>
+      <td align="center" width="100">
+        <img src="assets/icons/Pandas.svg" width="45" />
+        <br>Pandas
+      </td>
+      <td align="center" width="100">
+        <img src="assets/icons/Matplotlib.svg" width="45" />
+        <br>Matplotlib
+      </td>
+      <td align="center" width="125">
+        <img src="assets/icons/Scikitlearn.png" width="80" />
+        <br>Scikit-Learn
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+---
 
 ### 🌐 Connect with Me
 <p align="left"> 
