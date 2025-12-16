@@ -34,12 +34,16 @@
   <table>
     <tr>
       <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=c" width="45" height="45" alt="C" />
+        <br>C
+      </td>
+      <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" alt="C++" />
         <br>C++
       </td>
       <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=c" width="45" height="45" alt="C" />
-        <br>C
+        <img src="https://skillicons.dev/icons?i=cs" width="45" height="45" alt="C#" />
+        <br>C#
       </td>
       <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python" />
@@ -60,6 +64,10 @@
       <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript" />
         <br>JavaScript
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java" />
+        <br>Java
       </td>
     </tr>
   </table>
