@@ -198,7 +198,7 @@
 
 ### 📈 GitHub Stats
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=TaH00R&theme=dark&hide_border=false" width="430" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=TaH00R&theme=dark&hide_border=false" width="430" height = "150" />
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TaH00R&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </a>
