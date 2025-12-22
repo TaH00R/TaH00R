@@ -162,6 +162,10 @@
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" width="40" alt="Gmail"/>
   </a>
 
+  <a href="https://versesnventures.blogspot.com" target="_blank">
+    <img align="center" src="https://cdn.simpleicons.org/blogger/FF5722" height="30" width="40" alt="Blogger"/>
+  </a>
+
   <a href="https://instagram.com/tahoor.69/" target="_blank"> 
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram"/> 
   </a> 
@@ -174,13 +178,16 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/>
   </a>
 
- <a href="https://x.com/TaHooR_69" target="_blank">
-  <img align="center" src="https://cdn.simpleicons.org/x/ffffff" height="30" width="40" alt="X"/>
-</a>
+  <a href="https://x.com/TaHooR_69" target="_blank">
+    <img align="center" src="https://cdn.simpleicons.org/x/ffffff" height="30" width="40" alt="X"/>
+  </a>
 
-<a href="https://discord.com/users/858304358826901514" target="_blank">
-  <img align="center" src="https://cdn.simpleicons.org/discord/5865F2" height="30" width="40" alt="Discord"/>
-</a>
+  <a href="https://discord.com/users/858304358826901514" target="_blank">
+    <img align="center" src="https://cdn.simpleicons.org/discord/5865F2" height="30" width="40" alt="Discord"/>
+  </a>
+
+</p>
+
 
 
 
