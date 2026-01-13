@@ -96,25 +96,11 @@
         <br>Linux
       </td>
       <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=arduino" width="45" height="45" alt="Arduino" />
-        <br>Arduino
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=photoshop" width="45" height="45" alt="Photoshop" />
-        <br>Photoshop
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="Figma" />
-        <br>Figma
-      </td>
-      <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL" />
         <br>MySQL
-      </td>
       <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=blender" width="45" height="45" alt="Blender" />
-        <br>Blender
-      </td>
+  <img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" alt="Firebase" />
+  <br>Firebase
     </tr>
   </table>
 </div>
