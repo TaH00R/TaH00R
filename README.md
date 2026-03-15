@@ -88,10 +88,6 @@
         <br>Git
       </td>
       <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub" />
-        <br>GitHub
-      </td>
-      <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux" />
         <br>Linux
       </td>
@@ -101,27 +97,28 @@
       <td align="center" width="90">
   <img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" alt="Firebase" />
   <br>Firebase
-    </tr>
     <td align="center" width="90">
   <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="NodeJS" />
   <br>NodeJS
 </td>
-
+    </tr>
+    <tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45"/>
+<br>FastAPI
+</td>
 <td align="center" width="90">
   <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
   <br>Express
 </td>
-
 <td align="center" width="90">
   <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
   <br>MongoDB
 </td>
-
 <td align="center" width="90">
   <img src="https://skillicons.dev/icons?i=sqlite" width="45" height="45" alt="SQLite" />
   <br>SQLite
 </td>
-
 <td align="center" width="90">
   <img src="https://skillicons.dev/icons?i=spring" width="45" height="45" alt="SpringBoot" />
   <br>Spring Boot
@@ -130,6 +127,7 @@
 <img src="https://skillicons.dev/icons?i=docker" width="45" height="45"/>
 <br>Docker
 </td>
+      </tr>
   </table>
 </div>
 
