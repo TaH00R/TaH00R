@@ -10,7 +10,6 @@
   
 APP DEV • WEB DEV • AI/ML
 
-<img align="right" alt="Coding GIF" width="400" src="https://i.pinimg.com/originals/6a/68/6a/6a686a8073e1c27d52466dcd03531b2d.gif">
 
 ###  Connect with Me
 <p align="left"> 
