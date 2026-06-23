@@ -1,0 +1,62 @@
+name: Update Coding Age
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update README
+        run: |
+          python << 'EOF'
+          from datetime import date
+          import re
+
+          start = date(2025, 6, 23)
+          today = date.today()
+
+          days = (today - start).days
+
+          years = days // 365
+          remaining = days % 365
+          months = remaining // 30
+          remaining_days = remaining % 30
+
+          age = f"{years} Year{'s' if years != 1 else ''} • {months} Month{'s' if months != 1 else ''} • {remaining_days} Day{'s' if remaining_days != 1 else ''}"
+
+          with open("README.md", "r", encoding="utf-8") as f:
+              content = f.read()
+
+          replacement = f"""<!-- CODING_AGE_START -->
+          Started coding on **23 June 2025**
+
+          **{age}**
+          <!-- CODING_AGE_END -->"""
+
+          content = re.sub(
+              r'<!-- CODING_AGE_START -->.*?<!-- CODING_AGE_END -->',
+              replacement,
+              content,
+              flags=re.S
+          )
+
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(content)
+          EOF
+
+      - name: Commit changes
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add README.md
+          git diff --cached --quiet || git commit -m "Update coding age"
+          git push
