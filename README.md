@@ -31,3 +31,14 @@ APP DEV • WEB DEV • AI/ML
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/>
   </a>
 
+ <h2 id="coding-timer"></h2>
+
+### ⏱ Coding Journey
+
+<!-- CODING_AGE_START -->
+Started coding on **23 June 2025**
+
+**Loading...**
+<!-- CODING_AGE_END -->
+
+ 
