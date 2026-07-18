@@ -27,7 +27,7 @@ APP DEV • WEB DEV • AI/ML
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" alt="LeetCode"/> 
   </a>
 
-  <a href="https://www.linkedin.com/in/mohammad-tahoor-36652739a/" target="_blank">
+  <a href="https://www.linkedin.com/in/x-tahoor-x-36652739a/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/>
   </a>
 
