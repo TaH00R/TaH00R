@@ -18,7 +18,7 @@ APP DEV • WEB DEV • AI/ML
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" width="40" alt="Gmail"/>
   </a>
 
-  <a href="https://instagram.com/tahoor.69/" target="_blank"> 
+  <a href="https://instagram.com/t4lyx_/" target="_blank"> 
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram"/> 
   </a> 
 
