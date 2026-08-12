@@ -52,9 +52,9 @@ APP DEV • WEB DEV • AI/ML
 ### ⏱ Journey
 
 <!-- CODING_AGE_START -->
-"Hello World" in C on **23 June 2025**
+Started coding on **23 June 2025**
 
-**1 Year • 1 Month • 19 Days**
+**1 Year • 1 Month • 20 Days**
 <!-- CODING_AGE_END -->
 
  
