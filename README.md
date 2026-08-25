@@ -54,7 +54,7 @@ APP DEV • WEB DEV • AI/ML
 <!-- CODING_AGE_START -->
 Started coding on **23 June 2025**
 
-**1 Year • 2 Months • 2 Days**
+**1 Year • 2 Months • 3 Days**
 <!-- CODING_AGE_END -->
 
  
