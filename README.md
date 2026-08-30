@@ -1,21 +1,20 @@
 ```console
 TaH00R@iiit-guwahati:~$ neofetch --ascii_distro arch
 
-          ┌──────────────────────────────────────────────────────────────────────┐
-          │  TaH00R · @TaH00R                                                    │
-          ├──────────────────────────────────────────────────────────────────────┤
-          │  Name ............. TaH00R                                           │
-          │  College .......... IIIT Guwahati · B.Tech CSE                       │
-          │  Languages ........ C++ · Java · Python · TypeScript · Dart          │
-          │  Interests ........ Development · AI/ML · Open Source                │
-          │  Frameworks ....... Spring Boot · Next.js · Flutter                  │
-          │  Shell ............ Bash · Git                                       │
-          │  Editor ........... VS Code · PyCharn · IntelliJ                     │
-          │  Focus ............ Backend · Full Stack                             │
-          │  Learning ......... System Design · DSA                              │              
-          │  OS ............... Arch Linux · Hyprland                            │
-          │  Album ...........  Currents                                         │
-          └──────────────────────────────────────────────────────────────────────┘                                 
+                                                            ┌──────────────────────────────────────────────────────────────────────┐
+                                                            │  TaH00R · @TaH00R                                                    │
+                                                            ├──────────────────────────────────────────────────────────────────────┤
+                                                            │  Name ............. TaH00R                                           │
+                                                            │  College .......... IIIT Guwahati · B.Tech CSE                       │
+                                                            │  Languages ........ C++ · Java · Python · TypeScript · Dart          │
+                                                            │  Interests ........ Development · AI/ML · Open Source                │
+                                                            │  Frameworks ....... Spring Boot · React.js · Flutter                 │
+                                                            │  Shell ............ Bash · Git                                       │
+                                                            │  Editor ........... VS Code · PyCharn · IntelliJ                     │
+                                                            │  Focus ............ Backend · Full Stack                             │
+                                                            │  Learning ......... System Design · DSA                              │              
+                                                            │  Album ...........  Currents · Meteora · Dark Side of The Moon       │
+                                                            └──────────────────────────────────────────────────────────────────────┘                                 
 ```
   
 <samp>
